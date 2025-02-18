@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.slideshow-container {
+    width: 80%;
+    max-width: 800px;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
